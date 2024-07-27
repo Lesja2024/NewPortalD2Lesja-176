@@ -1,0 +1,7 @@
+py manage.py shell
+User.objects.create_user('username'))
+___.objects.create
+---.objects.get(id=x)
+update
+delet
+for i in
